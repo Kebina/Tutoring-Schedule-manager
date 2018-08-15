@@ -1,0 +1,621 @@
+[
+   {
+      "dow":"Monday",
+      "tod":[
+         {
+            "id":1,
+            "start":"10:00",
+            "stop":"10:30",
+            "limit":3,
+            "entries":[
+              
+            ]
+         },
+         {
+            "id":2,
+            "start":"10:30",
+            "stop":"11:00",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":3,
+            "start":"11:00",
+            "stop":"11:30",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":4,
+            "start":"11:30",
+            "stop":"12:00",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":5,
+            "start":"12:00",
+            "stop":"12:30",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":6,
+            "start":"12:30",
+            "stop":"1:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":7,
+            "start":"1:00",
+            "stop":"1:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":8,
+            "start":"1:30",
+            "stop":"2:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":9,
+            "start":"2:00",
+            "stop":"2:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":10,
+            "start":"2:30",
+            "stop":"3:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":11,
+            "start":"3:00",
+            "stop":"3:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":12,
+            "start":"3:30",
+            "stop":"4:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":13,
+            "start":"4:00",
+            "stop":"4:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":14,
+            "start":"4:30",
+            "stop":"5:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         }
+      ]
+   },
+   {
+      "dow":"Tuesday",
+      "tod":[
+         {
+            "id":1,
+            "start":"10:00",
+            "stop":"10:30",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":2,
+            "start":"10:30",
+            "stop":"11:00",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":3,
+            "start":"11:00",
+            "stop":"11:30",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":4,
+            "start":"11:30",
+            "stop":"12:00",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":5,
+            "start":"12:00",
+            "stop":"12:30",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":6,
+            "start":"12:30",
+            "stop":"1:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":7,
+            "start":"1:00",
+            "stop":"1:30",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":8,
+            "start":"1:30",
+            "stop":"2:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":9,
+            "start":"2:00",
+            "stop":"2:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":10,
+            "start":"2:30",
+            "stop":"3:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":11,
+            "start":"3:00",
+            "stop":"3:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":12,
+            "start":"3:30",
+            "stop":"4:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":13,
+            "start":"4:00",
+            "stop":"4:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":14,
+            "start":"4:30",
+            "stop":"5:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         }
+      ]
+   },
+   {
+      "dow":"Wednesday",
+      "tod":[
+         {
+            "id":1,
+            "start":"10:00",
+            "stop":"10:30",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":2,
+            "start":"10:30",
+            "stop":"11:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":3,
+            "start":"11:00",
+            "stop":"11:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":4,
+            "start":"11:30",
+            "stop":"12:00",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":5,
+            "start":"12:00",
+            "stop":"12:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":6,
+            "start":"12:30",
+            "stop":"1:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":7,
+            "start":"1:00",
+            "stop":"1:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":8,
+            "start":"1:30",
+            "stop":"2:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":9,
+            "start":"2:00",
+            "stop":"2:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":10,
+            "start":"2:30",
+            "stop":"3:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":11,
+            "start":"3:00",
+            "stop":"3:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":12,
+            "start":"3:30",
+            "stop":"4:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":13,
+            "start":"4:00",
+            "stop":"4:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":14,
+            "start":"4:30",
+            "stop":"5:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         }
+      ]
+   },
+   {
+      "dow":"Thursday",
+      "tod":[
+         {
+            "id":1,
+            "start":"10:00",
+            "stop":"10:30",
+            "limit":3,
+            "entries":[
+              
+            ]
+         },
+         {
+            "id":2,
+            "start":"10:30",
+            "stop":"11:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":3,
+            "start":"11:00",
+            "stop":"11:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":4,
+            "start":"11:30",
+            "stop":"12:00",
+            "limit":3,
+            "entries":[
+             
+            ]
+         },
+         {
+            "id":5,
+            "start":"12:00",
+            "stop":"12:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":6,
+            "start":"12:30",
+            "stop":"1:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":7,
+            "start":"1:00",
+            "stop":"1:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":8,
+            "start":"1:30",
+            "stop":"2:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":9,
+            "start":"2:00",
+            "stop":"2:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":10,
+            "start":"2:30",
+            "stop":"3:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":11,
+            "start":"3:00",
+            "stop":"3:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":12,
+            "start":"3:30",
+            "stop":"4:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":13,
+            "start":"4:00",
+            "stop":"4:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":14,
+            "start":"4:30",
+            "stop":"5:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         }
+      ]
+   },
+   {
+      "dow":"Friday",
+      "tod":[
+         {
+            "id":1,
+            "start":"10:00",
+            "stop":"10:30",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":2,
+            "start":"10:30",
+            "stop":"11:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":3,
+            "start":"11:00",
+            "stop":"11:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":4,
+            "start":"11:30",
+            "stop":"12:00",
+            "limit":3,
+            "entries":[
+               
+            ]
+         },
+         {
+            "id":5,
+            "start":"12:00",
+            "stop":"12:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":6,
+            "start":"12:30",
+            "stop":"1:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":7,
+            "start":"1:00",
+            "stop":"1:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":8,
+            "start":"1:30",
+            "stop":"2:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":9,
+            "start":"2:00",
+            "stop":"2:30",
+            "limit":3,
+            "entries":[
+
+            ]
+         },
+         {
+            "id":10,
+            "start":"2:30",
+            "stop":"3:00",
+            "limit":3,
+            "entries":[
+
+            ]
+         }
+      ]
+   }
+]
